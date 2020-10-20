@@ -1,1 +1,1 @@
-"# django_job_board" 
+"# Django_Jobs_board" 
